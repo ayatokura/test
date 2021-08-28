@@ -1,5 +1,8 @@
 ODC2021 LT Session
 
+<img src="https://user-images.githubusercontent.com/12283147/131202027-6421b0f3-bb80-4025-bf77-5fa3920e0004.png" width="600">
+<img src="https://user-images.githubusercontent.com/12283147/131209899-87228012-0add-4312-8741-619bfbdf31ed.png" width="600">
+
 ![image](https://user-images.githubusercontent.com/12283147/131202027-6421b0f3-bb80-4025-bf77-5fa3920e0004.png)
 ![image](https://user-images.githubusercontent.com/12283147/131209899-87228012-0add-4312-8741-619bfbdf31ed.png)
 ![image](https://user-images.githubusercontent.com/12283147/131204686-28eebcca-a9d5-42ea-a3e5-09778d00862b.png)
